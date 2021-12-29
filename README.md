@@ -1,4 +1,4 @@
-# Techwork
+# Electrical components
 # 1.SERVO MOTOR
 # Let's learn a bit about the servo motor
 
