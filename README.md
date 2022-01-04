@@ -27,7 +27,7 @@ Arduino is an open-source platform used for building electronics projects. Ardui
 
 
 
-about the pins of the arduino
+### About the pins of the arduino
 
 ![pins](https://user-images.githubusercontent.com/72257400/147776160-507a0562-b581-483b-aebf-5279ba6cb90d.png)
 
@@ -67,3 +67,18 @@ Below is the Image of how servo motor looks like!!
 
 
 ![servo](https://user-images.githubusercontent.com/72257400/147692157-e61a23a6-ec94-40f8-aabe-6689e0202e3d.png)
+# 3.LM35 TEMPERATURE SENSOR
+# Let's learn a bit about the servo motor
+
+LM35 is a precession Integrated circuit Temperature sensor, whose output voltage varies, based on the temperature around it. It is a small and cheap IC which can be used to measure temperature anywhere between -55°C to 150°C. It can easily be interfaced with any Microcontroller that has ADC function or any development platform like Arduino.
+### LM35 Temperature Sensor Applications
+   1.Measuring temperature of a particular environment<br/>
+   2.Providing thermal shutdown for a circuit/component<br/>
+   3.Monitoring Battery Temperature<br/>
+   4.Measuring Temperatures for HVAC applications.<br/>
+   
+![SENSOR](https://user-images.githubusercontent.com/72257400/148098218-e2dab94e-5ffe-44e4-8dd8-64351480060f.png)
+
+### About the pins of the LM35
+![PIN DES](https://user-images.githubusercontent.com/72257400/148098400-8f34eef4-8572-4732-9d7e-ebc5edf70c7c.png)
+
