@@ -89,3 +89,12 @@ LED, in full light-emitting diode, in electronics, a semiconductor device that e
 By varying the precise composition of the semiconductor, the wavelength (and therefore the colour) of the emitted light can be changed. LED emission is generally in the visible part of the spectrum (i.e., with wavelengths from 0.4 to 0.7 micrometre) or in the near infrared (with wavelengths between 0.7 and 2.0 micrometres). The brightness of the light observed from an LED depends on the power emitted by the LED and on the relative sensitivity of the eye at the emitted wavelength.
 
 ![image](https://user-images.githubusercontent.com/72257400/148428777-92fd5714-e029-4230-aa30-daaa9c3ea3c8.png)
+
+# 3.RESISTOR
+# Let's learn a bit about the RESISTOR
+
+The resistor is a passive electrical component that creates resistance in the flow of electric current. In almost all electrical networks and electronic circuits they can be found. The resistance is measured in ohms (Ω). An ohm is the resistance that occurs when a current of one ampere (A) passes through a resistor with a one volt (V) drop across its terminals. The current is proportional to the voltage across the terminal ends.
+
+Resistors are used for many purposes. A few examples include limiting electric current, voltage division, heat generation, matching and loading circuits, gain control, and setting time constants. They are commercially available with resistance values over a range of more than nine orders of magnitude. They can be used as electric brakes to dissipate kinetic energy from trains, or be smaller than a square millimeter for electronics.
+
+![image](https://user-images.githubusercontent.com/72257400/148429436-2867f84f-3784-4c9a-80f6-6dac7718ff7f.png)
