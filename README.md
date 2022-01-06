@@ -82,3 +82,10 @@ LM35 is a precession Integrated circuit Temperature sensor, whose output voltage
 ### About the pins of the LM35
 ![PIN DES](https://user-images.githubusercontent.com/72257400/148098400-8f34eef4-8572-4732-9d7e-ebc5edf70c7c.png)
 
+# 3.LED
+# Let's learn a bit about the LED
+
+LED, in full light-emitting diode, in electronics, a semiconductor device that emits infrared or visible light when charged with an electric current. Visible LEDs are used in many electronic devices as indicator lamps, in automobiles as rear-window and brake lights, and on billboards and signs as alphanumeric displays or even full-colour posters. Infrared LEDs are employed in autofocus cameras and television remote controls and also as light sources in fibre-optic telecommunication systems.
+By varying the precise composition of the semiconductor, the wavelength (and therefore the colour) of the emitted light can be changed. LED emission is generally in the visible part of the spectrum (i.e., with wavelengths from 0.4 to 0.7 micrometre) or in the near infrared (with wavelengths between 0.7 and 2.0 micrometres). The brightness of the light observed from an LED depends on the power emitted by the LED and on the relative sensitivity of the eye at the emitted wavelength.
+
+![image](https://user-images.githubusercontent.com/72257400/148428777-92fd5714-e029-4230-aa30-daaa9c3ea3c8.png)
