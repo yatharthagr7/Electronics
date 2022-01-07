@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"RING1",1," NeoPixel Ring 24"
+"U1",1," Arduino Uno R3"
+"Rpot1",1,"250 kΩ Potentiometer"
