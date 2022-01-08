@@ -62,3 +62,14 @@ Resistors are used for many purposes. A few examples include limiting electric c
 A potentiometer is a manually adjustable variable resistor with 3 terminals. Two of the terminals are connected to the opposite ends of a resistive element, and the third terminal connects to a sliding contact, called a wiper, moving over the resistive element. The potentiometer essentially functions as a variable resistance divider. The resistive element can be seen as two resistors in series (the total potentiometer resistance), where the wiper position determines the resistance ratio of the first resistor to the second resistor. If a reference voltage is applied across the end terminals, the position of the wiper determines the output voltage of the potentiometer.
 
 ![potentiometer-fig-1](https://user-images.githubusercontent.com/72257400/148571680-a19f4559-a395-4202-8862-43650855fbde.png)
+
+# 7.ULTRASONIC SENSOR
+# Let's learn a bit about the Ultrasonic sensor
+
+The ultrasonic sensor (or transducer) works on the same principles as a radar system. An ultrasonic sensor can convert electrical energy into acoustic waves and vice versa. The acoustic wave signal is an ultrasonic wave traveling at a frequency above 18kHz. The famous HC SR04 ultrasonic sensor generates ultrasonic waves at 40kHz frequency.
+
+Typically, a microcontroller is used for communication with an ultrasonic sensor. To begin measuring the distance, the microcontroller sends a trigger signal to the ultrasonic sensor. The duty cycle of this trigger signal is 10µS for the HC-SR04 ultrasonic sensor. 
+Ultrasonic sensors can detect objects placed within their range, but they cannot distinguish between different shapes and sizes. However, one can overcome this limitation can by using two sensors instead of just one sensor. One can install both sensors a distance away from each other, or they can be adjacent. By observing the overlapped shaded region, one can get a better idea of the shape and size of the target object.
+
+![image](https://user-images.githubusercontent.com/72257400/148653497-db61cd5c-b2e7-4cf1-8b91-3569b0c48d42.png)
+
