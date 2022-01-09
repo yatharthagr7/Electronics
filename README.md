@@ -73,3 +73,10 @@ Ultrasonic sensors can detect objects placed within their range, but they cannot
 
 ![image](https://user-images.githubusercontent.com/72257400/148653497-db61cd5c-b2e7-4cf1-8b91-3569b0c48d42.png)
 
+# 7.IR SENSOR
+# Let's learn a bit about the IR sensor
+
+An infrared sensor is an electronic device, that emits in order to sense some aspects of the surroundings. An IR sensor can measure the heat of an object as well as detects the motion. These types of sensors measure only infrared radiation, rather than emitting it that is called a passive IR sensor. Usually, in the infrared spectrum, all the objects radiate some form of thermal radiation.
+The working principle of an infrared sensor is similar to the object detection sensor. This sensor includes an IR LED & an IR Photodiode, so by combining these two can be formed as a photo-coupler otherwise optocoupler. The physics laws used in this sensor are planks radiation, Stephan Boltzmann & weins displacement.
+
+![image](https://user-images.githubusercontent.com/72257400/148694221-4b61b601-d08e-4560-9022-64406ee2b240.png)
