@@ -84,6 +84,8 @@ The working principle of an infrared sensor is similar to the object detection s
 # 9. ANALOG JOYSTICK
 # Let's learn a bit about the ANALOG JOYSTICK
 
+The Analog Joystick is similar to two potentiometers connected together, one for the vertical movement (Y-axis) and other for the horizontal movement (X-axis). The joystick also comes with a Select switch. It can be very handy for retro gaming, robot control or RC cars.The analog joystick has a handle and two slotted shafts around the handle (along the x-axis and y-axis). The handle can be pushed to any point in a plane, which will cause one or both of the slotted shafts to pivot. Each slotted shaft is attached to a potentiometer on the side, which converts the angular displacement of the shaft to an analog signal.
+The data for each axis is determined in analog using a potentiometer, communicating position in the form of voltage. This is possible because the shaft is connected to a wiper and resistive strip inside the potentiometer.
 
 ![image](https://user-images.githubusercontent.com/72257400/148798927-76fa8e15-1990-4a06-a8f3-d5724c285114.png)![image](https://user-images.githubusercontent.com/72257400/148799679-c25ee534-81d4-428a-8751-0c3d98c61a83.png)
 
