@@ -85,3 +85,5 @@ The working principle of an infrared sensor is similar to the object detection s
 # Let's learn a bit about the ANALOG JOYSTICK
 
 
+![image](https://user-images.githubusercontent.com/72257400/148798927-76fa8e15-1990-4a06-a8f3-d5724c285114.png)![image](https://user-images.githubusercontent.com/72257400/148799679-c25ee534-81d4-428a-8751-0c3d98c61a83.png)
+
