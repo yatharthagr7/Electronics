@@ -92,3 +92,9 @@ The data for each axis is determined in analog using a potentiometer, communicat
 
 # 9. FORCE SENSOR
 # Let's learn a bit about the Force Sensor
+
+A Force Sensor is a sensor that helps in measuring the amount of force applied to an object. By observing the amount of change in the resistance values of force-sensing resistors, the applied force can be calculated.
+The general working principle of Force Sensors is that they respond to the applied force and convert the value into a measurable quantity. There are various types of Force Sensors available in the market based on various sensing elements. Most of the Force Sensors are designed using Force-Sensing Resistors. These sensors consist of a sensing film and electrodes.
+
+The working principle of a Force-sensing resistor is based on the property of ‘Contact Resistance’. Force-sensing resistors contain a conductive polymer film that changes its resistance in a predictable manner when force is applied on its surface. This film consists of, sub-micrometres sized, electrically conducting and non-conducting particles arranged in a matrix. When force is applied to the surface of this film, the microsized particle touches the sensor electrodes, changing the resistance of the film. The amount of change caused to the resistance values gives the measure of the amount of force applied.
+
