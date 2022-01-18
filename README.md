@@ -1,4 +1,4 @@
-![Purple Minimalist Brush Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/72257400/147884985-950e8715-e2fb-466e-b20c-244ee2861d46.gif)
+![Purple Minimalist Brush Personal LinkedIn Banner (1)](https://github.com/yatharthagr7/Electronics/blob/main/Purple%20Minimalist%20Brush%20Personal%20LinkedIn%20Banner%20(1).gif)
 # Electrical components
 # 1.ARDUINO
 # Let's learn a bit about the ARDUINO
