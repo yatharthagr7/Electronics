@@ -103,3 +103,10 @@ The working principle of a Force-sensing resistor is based on the property of �
 
 # 11. FLEX SENSOR
 # Let's learn a bit about the Flex Sensor
+
+A flex sensor is a kind of sensor which is used to measure the amount of defection otherwise bending. The designing of this sensor can be done by using materials like plastic and carbon. The carbon surface is arranged on a plastic strip as this strip is turned aside then the sensor’s resistance will be changed. Thus, it is also named a bend sensor. As its varying resistance can be directly proportional to the quantity of turn thus it can also be employed like a goniometer.
+The pin configuration of the flex sensor is shown below. It is a two-terminal device, and the terminals are like p1 & p2. This sensor doesn’t contain any polarized terminal such as diode otherwise capacitor, which means there is no positive & negative terminal. The required voltage of this sensor to activate the sensor ranges from 3.3V -5V DC which can be gained from any type of interfacing.
+
+![image](https://user-images.githubusercontent.com/72257400/150387589-90adacf4-047a-42f7-bde3-3b2dfb83a9e9.png)
+#### Pin P1: This pin is generally connected to the +ve terminal of the power source.
+#### Pin P2: This pin is generally connected to GND pin of the power source.
