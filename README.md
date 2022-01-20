@@ -90,7 +90,7 @@ The data for each axis is determined in analog using a potentiometer, communicat
 ![image](https://user-images.githubusercontent.com/72257400/148798927-76fa8e15-1990-4a06-a8f3-d5724c285114.png)![image](https://user-images.githubusercontent.com/72257400/148799679-c25ee534-81d4-428a-8751-0c3d98c61a83.png)
 
 
-# 9. FORCE SENSOR
+# 10. FORCE SENSOR
 # Let's learn a bit about the Force Sensor
 
 A Force Sensor is a sensor that helps in measuring the amount of force applied to an object. By observing the amount of change in the resistance values of force-sensing resistors, the applied force can be calculated.
