@@ -114,6 +114,7 @@ The pin configuration of the flex sensor is shown below. It is a two-terminal de
 # 12. MOTOR WITH ENCODER
 # Let's learn a bit about the Motor With Encoder
 
+An encoder motor is a type of motor in which a rotary encoder is mounted to its backside that provides feedback to the system by tracking the speed or the position of the motor shaft.In any rotary encoder there are two outputs, labeled A and B or they can be something similar depending upon the product. But the underlying concept stays pretty similar, for the sake of simplicity, we can imagine a rotary encoder as like two switches inside the encoder, which is made common with VCC or GND (Depends on the manufacturer), now when it rotates the common terminal touches the A terminal or the B terminal, the terminal is so placed that if the encoder is rotating clockwise, contact A will go high, next contact B will go High, this means that depending upon the direction (clockwise or counterclockwise), there will always be a 90-degree phase shift. And we can simply detect this phase shift with the help of a microcontroller to determine the direction of the rotation and once we do that, we can increment or decrement a counter which tells us the RPM or the degree of rotation (in case of a geared encoder motor). The image below will give you a better idea of the process. 
 
 ![image](https://user-images.githubusercontent.com/72257400/150648115-4ccf3cd8-9de8-47c0-b51c-57209d13693a.png)
 
