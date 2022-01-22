@@ -110,3 +110,6 @@ The pin configuration of the flex sensor is shown below. It is a two-terminal de
 ![image](https://user-images.githubusercontent.com/72257400/150387589-90adacf4-047a-42f7-bde3-3b2dfb83a9e9.png)
 #### Pin P1: This pin is generally connected to the +ve terminal of the power source.
 #### Pin P2: This pin is generally connected to GND pin of the power source.
+
+# 12. MOTOR WITH ENCODER
+# Let's learn a bit about the Motor With Encoder
