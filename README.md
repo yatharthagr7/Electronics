@@ -113,3 +113,7 @@ The pin configuration of the flex sensor is shown below. It is a two-terminal de
 
 # 12. MOTOR WITH ENCODER
 # Let's learn a bit about the Motor With Encoder
+
+
+![image](https://user-images.githubusercontent.com/72257400/150648115-4ccf3cd8-9de8-47c0-b51c-57209d13693a.png)
+
