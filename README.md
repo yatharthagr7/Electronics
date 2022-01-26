@@ -118,3 +118,10 @@ An encoder motor is a type of motor in which a rotary encoder is mounted to its 
 
 ![image](https://user-images.githubusercontent.com/72257400/150648115-4ccf3cd8-9de8-47c0-b51c-57209d13693a.png)
 
+# 13. L293D DUAL H-BRIDGE MOTOR DRIVER
+## Let's learn a bit about the L293D dual H-bridge motor driver
+
+L293D Dual H-Bridge Motor Driver IC DIP-16 Package is quadruple high-current half-H driver.The L293 is designed to provide bidirectional drive currents of up to 1 A at voltages from 4.5 V to 36 V. The L293D is designed to provide bidirectional drive currents of up to 600-mA at voltages from 4.5 V to 36 V. Both devices are designed to drive inductive loads such as relays, solenoids, dc and bipolar stepping motors, as well as other high-current/high-voltage loads in positive-supply applications. All inputs are TTL compatible. Each output is a complete totem-pole drive circuit, with a Darlington transistor sink and a pseudo Darlington source. Drivers are enabled in pairs, with drivers 1 and 2 enabled by 1, 2 EN and drivers 3 and 4 enabled by 3, 4 EN. When an enable input is high, the associated drivers are enabled, and their outputs are active and in phase with their inputs. When the enable input is low, those drivers are disabled, and their outputs are off and in the high-impedance state.With the proper data inputs, each pair of drivers forms a full – H (or bridge) reversible drive suitable for solenoid or motor applications.
+
+
+![image](https://user-images.githubusercontent.com/72257400/151216122-19619e57-064d-469a-8346-7dc160ae9647.png)
