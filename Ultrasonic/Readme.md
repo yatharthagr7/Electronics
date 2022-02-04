@@ -1,5 +1,5 @@
 # Here are some files related to Ultrasonic sensor
-## Schematic Diagram
+### Schematic Diagram
 ![sch](https://user-images.githubusercontent.com/72257400/148653296-28868361-82ee-4009-8755-e39a80add0ba.png)
 
 
