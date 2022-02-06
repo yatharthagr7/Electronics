@@ -5,7 +5,7 @@
 
 
 
-## Connections of Servo motor and Arduino on TINKERCAD 
+### Connections of Servo motor and Arduino on TINKERCAD 
 
 ![circuit diagram](https://user-images.githubusercontent.com/72257400/147856620-59059f44-a36b-4a7f-95ce-fee06cee28f5.png)
 
