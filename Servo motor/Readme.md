@@ -1,5 +1,5 @@
 # Here are some files related to Servo Motor  
-## Schematic Diagram
+### Schematic Diagram
 
 ![schematic diagram](https://user-images.githubusercontent.com/72257400/147856626-a94c5d80-7820-410a-a37b-cbe3faa61a43.png)
 
