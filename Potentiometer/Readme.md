@@ -1,5 +1,5 @@
 # Here are some files related Potentiometer and NeoPixel 24
-## Schematic Diagram
+### Schematic Diagram
 ![sch](https://user-images.githubusercontent.com/72257400/148576409-581e12bf-1cda-4e54-ad8e-9c34c32f0414.png)
 
 ## Connections of Potentiometer,NeoPixel 24 and Arduino on TINKERCAD
