@@ -6,7 +6,7 @@
 
 
 
-## Connections of LED ,Resistor and Arduino on TINKERCAD 
+### Connections of LED ,Resistor and Arduino on TINKERCAD 
 ![image](https://user-images.githubusercontent.com/72257400/148429763-e73e0b4a-6f6f-4f39-8ca1-90af4dba4eb5.png)
 
 
