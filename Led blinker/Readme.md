@@ -1,5 +1,5 @@
 # Here are some files related to LED blinker 
-## Schematic Diagram
+### Schematic Diagram
 
 ![image](https://user-images.githubusercontent.com/72257400/148429862-7d8c27cc-90f6-4705-a777-f5f44f25fe51.png)
 
